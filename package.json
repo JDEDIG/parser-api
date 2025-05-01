@@ -5,7 +5,7 @@
   "description": "The serverless Postlight Parser API",
   "main": "src/handler.js",
   "engines": { 
-    "node": "16.x"
+    "node": "18.x"
   },
 
   "scripts": {
